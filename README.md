@@ -8,9 +8,8 @@
 
 - [Ubuntu 16.04.5, VirtualBox (3.18 GB)](https://mega.nz/#!so9AzC7Q!XwAUmiSRUvldwrkNsSoyEbUTCUJDiyG3P1O_sYJNlcY) [ricardojoserf:wifi]
 
-<br>
-
 --------------------------------
+<br>
 
 ## Hostapd & Freeradius-wpe
 
@@ -44,7 +43,7 @@ Result:
 
 ![Screenshot](https://i.imgur.com/ukz2afH.png)
 
---------------------------------
+<br>
 
 ## Hostapd-wpe
 
@@ -62,7 +61,7 @@ start_wpe $AP_NAME $INTERFACE
 
 ![Screenshot](https://i.imgur.com/FGqO0vV.png)
 
---------------------------------
+<br>
 
 ## Installation
 
