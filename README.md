@@ -2,11 +2,13 @@
 
 ### Virtual machines download
 
-- [Ubuntu 16.04.5, VMware (3.25 GB)](https://mega.nz/#!5h92EQYa!LHCNzYTN3GXEYYWcXgOUsnU37PpksbcaUFRlOK7RyRM) 
+- [Ubuntu 16.04.5, VMware (3.25 GB)](https://mega.nz/#!5h92EQYa!LHCNzYTN3GXEYYWcXgOUsnU37PpksbcaUFRlOK7RyRM) [ricardojoserf:wifi]
 
-- [Kali 2019.1, VMware (4.99 GB)](https://mega.nz/#!s90G0SBL!P4tYAfAT42Q2JVQY723KcW0XzKqEC8lbxVuJVbu7aTM)
+- [Kali 2019.1, VMware (4.99 GB)](https://mega.nz/#!s90G0SBL!P4tYAfAT42Q2JVQY723KcW0XzKqEC8lbxVuJVbu7aTM) [root:wifi]
 
-- [Ubuntu 16.04.5, VirtualBox (3.18 GB)](https://mega.nz/#!so9AzC7Q!XwAUmiSRUvldwrkNsSoyEbUTCUJDiyG3P1O_sYJNlcY)
+- [Ubuntu 16.04.5, VirtualBox (3.18 GB)](https://mega.nz/#!so9AzC7Q!XwAUmiSRUvldwrkNsSoyEbUTCUJDiyG3P1O_sYJNlcY) [ricardojoserf:wifi]
+
+<br>
 
 --------------------------------
 
@@ -23,7 +25,7 @@ Or:
 freeradiuswpe $AP_NAME $INTERFACE
 ```
 
-![Screenshot](img/1.png)
+![Screenshot](https://imgur.com/gWiOlMw)
 
 When a client connects, read logs with:
 
@@ -36,11 +38,11 @@ Or:
 ```
 readlog
 ```
-![Screenshot](img/2.png)
+![Screenshot](https://imgur.com/Vu2ryPA)
 
 Result:
 
-![Screenshot](img/3.png)
+![Screenshot](https://imgur.com/ukz2afH)
 
 --------------------------------
 
@@ -58,7 +60,7 @@ Or:
 start_wpe $AP_NAME $INTERFACE
 ```
 
-![Screenshot](img/4.png)
+![Screenshot](https://imgur.com/FGqO0vV)
 
 --------------------------------
 
