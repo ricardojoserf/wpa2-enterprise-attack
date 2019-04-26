@@ -1,4 +1,4 @@
-# 5. WPA2-Enterprise: Fake Access Points
+# WPA2-Enterprise: Rogue APs
 
 ### Virtual machines download
 
