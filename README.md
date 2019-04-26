@@ -25,7 +25,7 @@ Or:
 freeradiuswpe $AP_NAME $INTERFACE
 ```
 
-![Screenshot](https://imgur.com/gWiOlMw)
+![Screenshot](https://i.imgur.com/gWiOlMw.png)
 
 When a client connects, read logs with:
 
@@ -38,11 +38,11 @@ Or:
 ```
 readlog
 ```
-![Screenshot](https://imgur.com/Vu2ryPA)
+![Screenshot](https://i.imgur.com/Vu2ryPA.png)
 
 Result:
 
-![Screenshot](https://imgur.com/ukz2afH)
+![Screenshot](https://i.imgur.com/ukz2afH.png)
 
 --------------------------------
 
@@ -60,7 +60,7 @@ Or:
 start_wpe $AP_NAME $INTERFACE
 ```
 
-![Screenshot](https://imgur.com/FGqO0vV)
+![Screenshot](https://i.imgur.com/FGqO0vV.png)
 
 --------------------------------
 
