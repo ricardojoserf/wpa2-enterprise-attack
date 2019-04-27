@@ -1,5 +1,9 @@
 # WPA2-Enterprise: Rogue APs
 
+Through these scripts it is possible to create Rogue or Fake Access Points and carry out an authentication downgrade attack against WPA and WPA2-Enterprise networks, obtaining passwords in hash format or cleartext (if GTC downgrade is successful). 
+
+Both the installation scripts and virtual machines (in VMWare and VirtualBox format) are included.
+
 <br>
 
 ### Virtual machines download
@@ -20,7 +24,7 @@ Start the Access Point using:
 sh freeradius_wpe_init.sh $AP_NAME $INTERFACE
 ```
 
-Or:
+Or if you are using the virtual machine:
 ```
 freeradiuswpe $AP_NAME $INTERFACE
 ```
@@ -33,7 +37,7 @@ When a client connects, read logs with:
 sh freeradius_wpe_read.sh
 ```
 
-Or:
+Or if you are using the virtual machine:
 
 ```
 readlog
@@ -54,7 +58,7 @@ Start the Access Point using:
 sh hostapd_wpe_init.sh $AP_NAME $INTERFACE
 ```
 
-Or:
+Or if you are using the virtual machine:
 
 ```
 start_wpe $AP_NAME $INTERFACE
