@@ -1,8 +1,6 @@
 # WPA2-Enterprise: Rogue APs
 
-Through these scripts it is possible to create Rogue or Fake Access Points and carry out an authentication downgrade attack against WPA and WPA2-Enterprise networks, obtaining passwords in hash format or cleartext (if GTC downgrade is successful). 
-
-Both the installation scripts and virtual machines (in VMWare and VirtualBox format) are included.
+Through these scripts it is possible to create Rogue or Fake Access Points and carry out an authentication downgrade attack against WPA and WPA2-Enterprise networks, obtaining passwords in hash format or cleartext (if GTC downgrade is successful). Both the installation scripts and virtual machines (in VMWare and VirtualBox format) are included.
 
 <br>
 
