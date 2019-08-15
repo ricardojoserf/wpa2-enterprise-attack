@@ -2,14 +2,17 @@
 
 Through these scripts it is possible to create Rogue or Fake Access Points and carry out an authentication downgrade attack against WPA and WPA2-Enterprise networks, obtaining passwords in hash format or cleartext (if GTC downgrade is successful). 
 
-Both the installation scripts and virtual machines (in VMWare and VirtualBox format) are included.
+Both the installation scripts, ISO files and virtual machines (in VMWare and VirtualBox format) are included.
 
 <br>
 
-### Virtual machines download
+
+### ISO files and Virtual machines download
 
 | Operative system | Platform | Credentials | Size | Link |
 | ---------------- | -------- | ----------- | ---- | ---- |
+| Ubuntu 16.04.5   |   ISO    | ricardojoserf:wifi | 3.25 GB | [MEGA](https://mega.nz/#!N9lmxaCY!I1I-9jfmlLHuZp6KhKMSqTqkUouX__LlCEkFXWPHCos) |
+| Kali 2019.1      |   ISO    | root:wifi          | 4.99 GB | [MEGA]() |
 | Ubuntu 16.04.5   | VMware   | ricardojoserf:wifi | 3.25 GB | [MEGA](https://mega.nz/#!5h92EQYa!LHCNzYTN3GXEYYWcXgOUsnU37PpksbcaUFRlOK7RyRM) |
 | Kali 2019.1      | VMware   | root:wifi          | 4.99 GB | [MEGA](https://mega.nz/#!s90G0SBL!P4tYAfAT42Q2JVQY723KcW0XzKqEC8lbxVuJVbu7aTM) |
 | Ubuntu 16.04.5   | VirtualBox | ricardojoserf:wifi | 3.18 GB | [MEGA](https://mega.nz/#!so9AzC7Q!XwAUmiSRUvldwrkNsSoyEbUTCUJDiyG3P1O_sYJNlcY) |
