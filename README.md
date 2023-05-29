@@ -9,13 +9,12 @@ Both the installation scripts, ISO files and virtual machines (in VMWare and Vir
 
 ### ISO files and Virtual machines download
 
-| Operative system | Platform | Credentials | Size | Link |
+| Operating system | Platform | Credentials | Size | Link |
 | ---------------- | -------- | ----------- | ---- | ---- |
-| Ubuntu 16.04.5   |   ISO    | ricardojoserf:wifi | 1.65 GB | [MEGA](https://mega.nz/#!N9lmxaCY!I1I-9jfmlLHuZp6KhKMSqTqkUouX__LlCEkFXWPHCos) |
-| Ubuntu 16.04.5   | VMware   | ricardojoserf:wifi | 3.25 GB | [MEGA](https://mega.nz/#!5h92EQYa!LHCNzYTN3GXEYYWcXgOUsnU37PpksbcaUFRlOK7RyRM) |
-| Kali 2019.1      | VMware   | root:wifi          | 4.99 GB | [MEGA](https://mega.nz/#!s90G0SBL!P4tYAfAT42Q2JVQY723KcW0XzKqEC8lbxVuJVbu7aTM) |
-| Ubuntu 16.04.5   | VirtualBox | ricardojoserf:wifi | 3.18 GB | [MEGA](https://mega.nz/#!so9AzC7Q!XwAUmiSRUvldwrkNsSoyEbUTCUJDiyG3P1O_sYJNlcY) |
-| Kali 2019.1      | VirtualBox | root:wifi        | 5.56 GB | [MEGA](https://mega.nz/#!FwEznIAI!mDNEhDb8lmVDhMvbl3kx3Rh99KXpCIeylNyXZcp-5gI) |
+| Ubuntu 16.04.5   | VMware   | ricardojoserf:wifi | 3.25 GB | [MEGA](https://mega.nz/file/5glEzKKa#SCmh95KdM28uPt-h8J5xtu4pQrnn_3yrI2kLnaSq3nw) |
+| Kali 2019.1      | VMware   | root:wifi          | 4.99 GB | [MEGA](https://mega.nz/file/11sDVSoB#KMq5yWvuGUFwGhqzd-5hE21Xsfxsp0UMauQKntMbs38) |
+| Ubuntu 16.04.5   | VirtualBox (OVA) | ricardojoserf:wifi | 3.18 GB | [MEGA](https://mega.nz/file/N5slGZLC#Dx1rBEMoNOAqdaEpB7BHhRi26HDxkJlyoQNk0frWDkw) |
+| Kali 2019.1      | VirtualBox (OVA) | root:wifi        | 5.56 GB | [MEGA](https://mega.nz/file/pl0j3ZwC#zE_skdeUCLoOSQHvtHrvejmA4Ktn9Qk0Sk0qI1d4KeI) |
 <br>
 
 ## Hostapd & Freeradius-wpe
